@@ -1,0 +1,16 @@
+Insertion Sort ex1
+[22,27,16,2,18,6]--->n
+[2,27,16,22,18,6]--->n-1
+[2,6,16,22,18,27]--->n-2
+[2,6,16,22,18,27]--->n-3
+[2,6,16,18,22,27]--->n-4
+Big O notation= Best case O(n)
+                Average case O(n^2)
+                Worst CaseO(n^2)
+                
+Inserion Sort ex2  
+[7,3,5,8,2,9,4,15,6]-write first 4 step sorting by insertion sort
+1st step-->[(7),3,5,8,2,9,4,15,6]
+2st step-->[2,3,5,8,7,9,4,15,6]
+3rd step-->[2,3,5,8,7,9,4,15,6]
+4th step-->[2,3,4,8,7,9,8,15,6]
